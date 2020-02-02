@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\student\source\repos\forwardlist\forwardlists\source.cpp(152): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\student\source\repos\forwardlist\forwardlists\source.cpp(172): warning C4101: 'data': unreferenced local variable
